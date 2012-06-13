@@ -16,13 +16,13 @@
 		741CF5E915826308007C7E21 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 741CF5E815826308007C7E21 /* ViewController.m */; };
 		741CF60715827D2C007C7E21 /* CCPullNavigation.m in Sources */ = {isa = PBXBuildFile; fileRef = 741CF60615827D2C007C7E21 /* CCPullNavigation.m */; };
 		74484F7B1587D07D001E280F /* UIView+FindUIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74484F7A1587D07D001E280F /* UIView+FindUIViewController.m */; };
-		74484F811587D08C001E280F /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484F7D1587D08C001E280F /* arrow-down.png */; };
-		74484F821587D08C001E280F /* arrow-down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484F7E1587D08C001E280F /* arrow-down@2x.png */; };
-		74484F831587D08C001E280F /* arrow-up.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484F7F1587D08C001E280F /* arrow-up.png */; };
-		74484F841587D08C001E280F /* arrow-up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484F801587D08C001E280F /* arrow-up@2x.png */; };
-		74484F9915884E77001E280F /* CCDefaultLoaderNextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74484F9515884E77001E280F /* CCDefaultLoaderNextViewController.xib */; };
-		74484F9A15884E77001E280F /* CCDefaultLoaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74484F9715884E77001E280F /* CCDefaultLoaderViewController.m */; };
-		74484F9B15884E77001E280F /* CCDefaultLoaderPreviousViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74484F9815884E77001E280F /* CCDefaultLoaderPreviousViewController.xib */; };
+		74484FEE1588F7D0001E280F /* CCDefaultLoaderNextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74484FE51588F7D0001E280F /* CCDefaultLoaderNextViewController.xib */; };
+		74484FEF1588F7D0001E280F /* CCDefaultLoaderPreviousViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74484FE61588F7D0001E280F /* CCDefaultLoaderPreviousViewController.xib */; };
+		74484FF01588F7D0001E280F /* CCDefaultLoaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74484FE81588F7D0001E280F /* CCDefaultLoaderViewController.m */; };
+		74484FF11588F7D0001E280F /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484FEA1588F7D0001E280F /* arrow-down.png */; };
+		74484FF21588F7D0001E280F /* arrow-down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484FEB1588F7D0001E280F /* arrow-down@2x.png */; };
+		74484FF31588F7D0001E280F /* arrow-up.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484FEC1588F7D0001E280F /* arrow-up.png */; };
+		74484FF41588F7D0001E280F /* arrow-up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74484FED1588F7D0001E280F /* arrow-up@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,14 +43,14 @@
 		741CF608158281F2007C7E21 /* CCPullNavigationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCPullNavigationViewController.h; sourceTree = "<group>"; };
 		74484F791587D07D001E280F /* UIView+FindUIViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+FindUIViewController.h"; sourceTree = "<group>"; };
 		74484F7A1587D07D001E280F /* UIView+FindUIViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+FindUIViewController.m"; sourceTree = "<group>"; };
-		74484F7D1587D08C001E280F /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
-		74484F7E1587D08C001E280F /* arrow-down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down@2x.png"; sourceTree = "<group>"; };
-		74484F7F1587D08C001E280F /* arrow-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up.png"; sourceTree = "<group>"; };
-		74484F801587D08C001E280F /* arrow-up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up@2x.png"; sourceTree = "<group>"; };
-		74484F9515884E77001E280F /* CCDefaultLoaderNextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCDefaultLoaderNextViewController.xib; sourceTree = "<group>"; };
-		74484F9615884E77001E280F /* CCDefaultLoaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDefaultLoaderViewController.h; sourceTree = "<group>"; };
-		74484F9715884E77001E280F /* CCDefaultLoaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDefaultLoaderViewController.m; sourceTree = "<group>"; };
-		74484F9815884E77001E280F /* CCDefaultLoaderPreviousViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCDefaultLoaderPreviousViewController.xib; sourceTree = "<group>"; };
+		74484FE51588F7D0001E280F /* CCDefaultLoaderNextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCDefaultLoaderNextViewController.xib; sourceTree = "<group>"; };
+		74484FE61588F7D0001E280F /* CCDefaultLoaderPreviousViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CCDefaultLoaderPreviousViewController.xib; sourceTree = "<group>"; };
+		74484FE71588F7D0001E280F /* CCDefaultLoaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDefaultLoaderViewController.h; sourceTree = "<group>"; };
+		74484FE81588F7D0001E280F /* CCDefaultLoaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDefaultLoaderViewController.m; sourceTree = "<group>"; };
+		74484FEA1588F7D0001E280F /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
+		74484FEB1588F7D0001E280F /* arrow-down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down@2x.png"; sourceTree = "<group>"; };
+		74484FEC1588F7D0001E280F /* arrow-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up.png"; sourceTree = "<group>"; };
+		74484FED1588F7D0001E280F /* arrow-up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,9 +121,9 @@
 		741CF60415827D2C007C7E21 /* CCPullavigation */ = {
 			isa = PBXGroup;
 			children = (
-				74484F9415884E77001E280F /* Default Loader */,
+				74484FE41588F7D0001E280F /* DefaultLoader */,
+				74484FE91588F7D0001E280F /* Images */,
 				74484F781587D07D001E280F /* Categories */,
-				74484F7C1587D08C001E280F /* images */,
 				741CF60515827D2C007C7E21 /* CCPullNavigation.h */,
 				741CF60615827D2C007C7E21 /* CCPullNavigation.m */,
 				741CF608158281F2007C7E21 /* CCPullNavigationViewController.h */,
@@ -141,26 +141,26 @@
 			path = Categories;
 			sourceTree = "<group>";
 		};
-		74484F7C1587D08C001E280F /* images */ = {
+		74484FE41588F7D0001E280F /* DefaultLoader */ = {
 			isa = PBXGroup;
 			children = (
-				74484F7D1587D08C001E280F /* arrow-down.png */,
-				74484F7E1587D08C001E280F /* arrow-down@2x.png */,
-				74484F7F1587D08C001E280F /* arrow-up.png */,
-				74484F801587D08C001E280F /* arrow-up@2x.png */,
+				74484FE51588F7D0001E280F /* CCDefaultLoaderNextViewController.xib */,
+				74484FE61588F7D0001E280F /* CCDefaultLoaderPreviousViewController.xib */,
+				74484FE71588F7D0001E280F /* CCDefaultLoaderViewController.h */,
+				74484FE81588F7D0001E280F /* CCDefaultLoaderViewController.m */,
 			);
-			path = images;
+			path = DefaultLoader;
 			sourceTree = "<group>";
 		};
-		74484F9415884E77001E280F /* Default Loader */ = {
+		74484FE91588F7D0001E280F /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				74484F9615884E77001E280F /* CCDefaultLoaderViewController.h */,
-				74484F9715884E77001E280F /* CCDefaultLoaderViewController.m */,
-				74484F9515884E77001E280F /* CCDefaultLoaderNextViewController.xib */,
-				74484F9815884E77001E280F /* CCDefaultLoaderPreviousViewController.xib */,
+				74484FEA1588F7D0001E280F /* arrow-down.png */,
+				74484FEB1588F7D0001E280F /* arrow-down@2x.png */,
+				74484FEC1588F7D0001E280F /* arrow-up.png */,
+				74484FED1588F7D0001E280F /* arrow-up@2x.png */,
 			);
-			path = "Default Loader";
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -214,12 +214,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				741CF5E015826308007C7E21 /* InfoPlist.strings in Resources */,
-				74484F811587D08C001E280F /* arrow-down.png in Resources */,
-				74484F821587D08C001E280F /* arrow-down@2x.png in Resources */,
-				74484F831587D08C001E280F /* arrow-up.png in Resources */,
-				74484F841587D08C001E280F /* arrow-up@2x.png in Resources */,
-				74484F9915884E77001E280F /* CCDefaultLoaderNextViewController.xib in Resources */,
-				74484F9B15884E77001E280F /* CCDefaultLoaderPreviousViewController.xib in Resources */,
+				74484FEE1588F7D0001E280F /* CCDefaultLoaderNextViewController.xib in Resources */,
+				74484FEF1588F7D0001E280F /* CCDefaultLoaderPreviousViewController.xib in Resources */,
+				74484FF11588F7D0001E280F /* arrow-down.png in Resources */,
+				74484FF21588F7D0001E280F /* arrow-down@2x.png in Resources */,
+				74484FF31588F7D0001E280F /* arrow-up.png in Resources */,
+				74484FF41588F7D0001E280F /* arrow-up@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,7 +235,7 @@
 				741CF5E915826308007C7E21 /* ViewController.m in Sources */,
 				741CF60715827D2C007C7E21 /* CCPullNavigation.m in Sources */,
 				74484F7B1587D07D001E280F /* UIView+FindUIViewController.m in Sources */,
-				74484F9A15884E77001E280F /* CCDefaultLoaderViewController.m in Sources */,
+				74484FF01588F7D0001E280F /* CCDefaultLoaderViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
