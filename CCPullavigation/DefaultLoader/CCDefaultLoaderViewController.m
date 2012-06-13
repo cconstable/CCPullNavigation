@@ -81,7 +81,7 @@
 
 - (void)loadingDidFinish
 {
-    _pullState = CCNavigationViewStateResting;
+    [self pullNavigationViewShouldChangeState:CCNavigationViewStateResting];
     self.icon.alpha = 1.0;
     [self.activityIndicator stopAnimating]; 
 }
