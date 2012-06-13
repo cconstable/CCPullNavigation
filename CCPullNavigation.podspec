@@ -13,7 +13,8 @@ Pod::Spec.new do |s|
                  :commit => '84699bd9e6860b7adb1ea2a11a725f3db8e2a572' }
 
   s.platform = :ios
-  s.source_files = 'CCPullavigation/**/*.{h,m,xib,png}'
+  s.source_files = 'CCPullavigation/**/*.{h,m}'
+  s.resources = 'CCPullavigation/**/*.{xib,png}'
 
   s.requires_arc = true
 
