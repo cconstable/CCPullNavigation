@@ -4,9 +4,8 @@ Pod::Spec.new do |s|
   s.summary  = 'This library allows users to navigate views by pulling on a side of a scroll view.'
   s.homepage = 'https://github.com/mstrchrstphr/CCPullNavigation'
   s.author   = 'Christopher Constable'
-  s.license   = {
-    :type => 'MIT',
-    :file => 'LICENSE'
+  s.license  = s.license   = {
+    :type => 'MIT'
   }
 
   s.source   = { :git => 'https://github.com/mstrchrstphr/CCPullNavigation.git',
