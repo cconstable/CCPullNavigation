@@ -4,6 +4,7 @@ CCPullNavigation
 This library allows users to navigate views by pulling up or down at the the bottom or top of a scroll view (respectively).
 
 CCPullNavigation was created because there were no easily accessable library that did the following:
+
 1. Provide pull-to-refresh style navigation (in any direction).
 2. Did not add extra container views to the view hierarchy.
 3. Did not use the scroll view's delegate.
